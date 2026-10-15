@@ -234,3 +234,6 @@ Beyond model building, the project reinforced an important principle of data sci
 **Author:** Bolade Oloruntayo  
 **Project:** Cognifyz Technologies Machine Learning Internship  
 **Focus Areas:** Data Analysis | Machine Learning | Predictive Analytics | Business Intelligence
+
+## NOTE
+**To read the python script, doenload and open with a browser (Chrome suggested)**
