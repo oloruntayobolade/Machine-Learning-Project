@@ -8,6 +8,9 @@ Exploring restaurant ratings, service features, pricing patterns, and cuisine da
 
 This project applies machine learning techniques to **9,551 restaurant records** from the Cognifyz Technologies internship dataset. The goal was to investigate whether restaurant ratings could be predicted from basic listing attributes and whether cuisine information could be used to classify restaurants.
 
+## Dashboard Overview-Data cleaning
+![Dashboard Overview](https://github.com/oloruntayobolade/Machine-Learning-Project/blob/main/Script_Overview1-data-cleaning.png)
+
 Two modelling tasks were explored:
 
 - **Restaurant Rating Prediction:** A Linear Regression model using five restaurant features to examine patterns associated with rating levels.
