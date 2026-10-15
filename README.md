@@ -236,4 +236,4 @@ Beyond model building, the project reinforced an important principle of data sci
 **Focus Areas:** Data Analysis | Machine Learning | Predictive Analytics | Business Intelligence
 
 ## NOTE
-**To read the python script, doenload and open with a browser (Chrome suggested)**
+**To read the python script, download and open with a browser (Chrome suggested)**
